@@ -28,9 +28,6 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 ![Screenshot 2024-05-02 101830]([https://github.com/HG3182/Rock-Paper-Scissors/assets/155936631/141373f4-77ea-44d4-91e2-f1897e31574b](https://rawcdn.githack.com/HG3182/Rock-Paper-Scissors/edit/main/index.html))
 
-## Play Online
-
-Paly the game online now [here](https://raw.githack.com/HG3182/Rock-Paper-Scissors/edit/main/index.html)
 
 ## License
 
