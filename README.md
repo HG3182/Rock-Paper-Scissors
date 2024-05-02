@@ -24,11 +24,13 @@ No installation is required. Simply open the `index.html` file in a web browser 
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
-## Screen_Shot
+## Screenshot
+![Rock Paper Scissors](https://github.com/HG3182/Rock-Paper-Scissors/assets/155936631/a257cfa6-fb8d-4299-a442-9746386ceb01)
 
-![Screenshot 2024-05-02 101830]([https://github.com/HG3182/Rock-Paper-Scissors/assets/155936631/141373f4-77ea-44d4-91e2-f1897e31574b](https://rawcdn.githack.com/HG3182/Rock-Paper-Scissors/edit/main/index.html))
 
+## Live Demo
 
+[Live Demo](https://raw.githack.com/HG3182/Rock-Paper-Scissors/main/index.html)
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
