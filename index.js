@@ -22,8 +22,6 @@ var ties = 0;
             ) {
                 wins++;
                 result = "You win!";
-                const taunts = " ";
-                computerTaunt = taunts;
             } else {
                 losses++;
                 result = "You lose!";
